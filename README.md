@@ -36,7 +36,7 @@
     
     <section id="gallery">
         <h2>Gallery</h2>
-        <!-- Add images or videos of the Ferrari 488 -->
+        <img src="/thumbs/2018/ferrari_488_pista_spider_4k-t2.jpg" alt="Ferrari 488 Pista Spider 4K" title="Ferrari 488 Pista Spider 4K" width="520" height="325">
     </section>
 
     <footer>
